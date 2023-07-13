@@ -8,4 +8,4 @@ const Remaining = () => {
     );
 }
 
-export default Remaining;
+export default Remaining
